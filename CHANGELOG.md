@@ -6,6 +6,8 @@
 
 ### Feature
 
+- Added Error Handling in `/controlpanel/addons` and `/controlpanel/database` routes @avimishra18
+
 ### Bugfix
 
 ### Internal
